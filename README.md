@@ -3,7 +3,8 @@
 
 [![Minimum SDK Version](https://img.shields.io/badge/minSDK-24%20(Android%207.0)-brightgreen.svg)](https://developer.android.com/about/versions/nougat)  
 [![Target SDK Version](https://img.shields.io/badge/targetSDK-35%20(Android%2015)-orange.svg)](https://developer.android.com/about/versions/15)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Telegram](https://img.shields.io/badge/Join-Telegram%20Channel-0088cc)](https://t.me/devbyars3nb)
 
 **PairSpam** — приложение для отправки множества Bluetooth-запросов с вашего устройства. Подходит для тестирования и исследования работы Bluetooth-соединений.  
 
